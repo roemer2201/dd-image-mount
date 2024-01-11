@@ -1,6 +1,7 @@
 #!/bin/bash 
 #----------------------------------------------------------------------
-# Author: haveaniceday
+# Original Author: haveaniceday
+# Source: https://wiki.ubuntuusers.de/mount/
 # Version: 1, Last updated: 12/2007
 #----------------------------------------------------------------------
  
