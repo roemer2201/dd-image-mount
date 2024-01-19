@@ -1,2 +1,2 @@
 # dd-image-mount
-mount a partition from from dd image
+print mount commands for partitions from a dd image
